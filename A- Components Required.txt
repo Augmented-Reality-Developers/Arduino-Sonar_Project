@@ -1,0 +1,28 @@
+1. Arduino Uno  -  1
+
+
+2. Jumper Cables( Male to Male, Female to Female, Male to Female )  -   
+
+                                            As many as possibly you can
+
+
+3. Potentiometer
+
+
+
+4. Arduino Ultrasonic Sensor ( HC-SR04 )    -   1
+
+
+
+
+5. Arduino LCD Display  -   1
+
+
+
+6.  Breadboard
+
+
+7. Stepper Motor 
+
+   ( I haven't added that to my project as at the time I was making the
+     project, sadly I didn't had Stepper Motor with me...  )
